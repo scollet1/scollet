@@ -4,12 +4,12 @@ body{
 
 h1{
 	color: lime;
-	font-family: "Terminal Dosis", sans-serif;
+	font-family: "Terminal Dosis", serif;
 }
 
 p {
     	color: lime;
-	font-family: "Terminal Dosis", sans-serif;
+	font-family: "Terminal Dosis", serif;
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
