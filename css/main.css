@@ -1,6 +1,14 @@
+body{
+	background-color: black;
+}
+
+h1{
+	color: lime;
+	font-family: "Terminal Dosis", sans-serif;
+}
 
 p {
-    color: lime;
+    	color: lime;
 	font-family: "Terminal Dosis", sans-serif;
 	font-size: 14px;
 	font-style: normal;
