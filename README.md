@@ -1,2 +1,2 @@
 # scollet
-Me.io
+me.io
