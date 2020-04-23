@@ -6,12 +6,12 @@ body {
 		background-image: url("../assets/images/random_perason.png") no-repeat 0 0;
 		background-position: right;
 		background-size: auto;
-		
+
 		display:inline-block;
 		width: 15%;
 		margin: 0 auto;
 		text-align: center;
-		
+
 		.header {
 			display: inline-block;
 		}
