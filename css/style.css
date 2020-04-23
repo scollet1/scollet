@@ -1,22 +1,26 @@
-.projects {
-	text-align: center;
-	
-	.header {
-		display: inline-block;
-	}
-	display:inline-block;
-	width:15%;
-	margin: 0 auto;
+#body {
+	font-family: courier;
 
-	.section {
+	.projects {
+		text-align: center;
+		
+		.header {
+			display: inline-block;
+		}
+		display:inline-block;
+		width:15%;
+		margin: 0 auto;
 
-		.sub-section {
-			.project {
-				border-bottom: 3px solid #4588ba;
-				margin-bottom:10px;
+		.section {
 
-				a:link {
-					color: black;
+			.sub-section {
+				.project {
+					border-bottom: 3px solid black;
+					margin-bottom:10px;
+
+					a:link {
+						color: black;
+					}
 				}
 			}
 		}
