@@ -1,5 +1,6 @@
 #body {
 	font-family: courier;
+	background-color: #667f91;
 
 	.projects {
 		text-align: center;
@@ -26,5 +27,10 @@
 				}
 			}
 		}
+	}
+
+	.companion-image {
+		position: fixed;
+		top: 20px;
 	}
 }
