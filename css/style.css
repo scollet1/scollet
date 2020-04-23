@@ -9,9 +9,10 @@ body {
 }
 
 body.projects {
-	background-image: url("../assets/images/random_perason.png") no-repeat 0 0;
+	background-image: url("../assets/images/random_perason.png"));
 	background-position: right;
 	background-size: auto;
+	background-repeat: no-repeat;
 }
 
 body.section {
