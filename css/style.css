@@ -1,12 +1,6 @@
 body {
 	font-family: courier;
 	background-color: #667f91;
-}
-
-.projects {
-	background-image: url("../assets/images/random_perason.png") no-repeat 0 0;
-	background-position: right;
-	background-size: auto;
 
 	display:inline-block;
 	width: 15%;
@@ -14,12 +8,18 @@ body {
 	text-align: center;
 }
 
-.section {
+body.projects {
+	background-image: url("../assets/images/random_perason.png") no-repeat 0 0;
+	background-position: right;
+	background-size: auto;
+}
+
+body.section {
 	border-bottom: 3px solid black;
 	margin-bottom: 10px;
 }
 
-.sub-section {
+body.project {
 	border-bottom: 1px solid black;
 	margin-bottom: 5px;
 }
