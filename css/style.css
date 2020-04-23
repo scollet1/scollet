@@ -4,11 +4,11 @@
 	.header {
 		display: inline-block;
 	}
+	display:inline-block;
+	width:15%;
+	margin: 0 auto;
 
 	.section {
-		display:inline-block;
-		width:15%;
-		margin: 0 auto;
 
 		.sub-section {
 			.project {
