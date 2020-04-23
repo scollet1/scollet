@@ -1,11 +1,12 @@
 body {
 	font-family: courier;
 	background-color: #667f91;
-	background-image: url("../assets/images/random_perason.png") no-repeat 0 0;
-	height: 500px;
-	background-position: left;
 
 	.projects {
+		background-image: url("../assets/images/random_perason.png") no-repeat 0 0;
+		background-position: right;
+		background-size: auto;
+		
 		display:inline-block;
 		width: 15%;
 		margin: 0 auto;
