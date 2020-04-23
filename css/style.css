@@ -1,0 +1,17 @@
+.projects {
+	text-align: center;
+	
+	.header {
+		display: inline-block;
+	}
+
+	.section {
+		.sub-section {
+			.project {
+				a:link {
+					color: black;
+				}
+			}
+		}
+	}
+}
