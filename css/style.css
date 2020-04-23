@@ -12,6 +12,9 @@
 
 		.sub-section {
 			.project {
+				border-bottom: 3px solid #4588ba;
+				margin-bottom:10px;
+
 				a:link {
 					color: black;
 				}
