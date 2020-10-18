@@ -4,19 +4,19 @@ body {
 	text-align: center;
 }
 
-body.projects {
+.projects {
 	background-image: url("../assets/images/random_perason.png"));
 	background-position: right;
 	background-size: auto;
 	background-repeat: no-repeat;
 }
 
-body.section {
+.section {
 	border-bottom: 3px solid black;
 	margin-bottom: 10px;
 }
 
-body.project {
+.project {
 	border-bottom: 1px solid black;
 	margin-bottom: 5px;
 }
