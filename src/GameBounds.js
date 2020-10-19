@@ -133,8 +133,10 @@ class GameBounds extends Component {
 									</figure>
 								</div>
 
-									<br/>
+							</div>
 								
+							<h3>React</h3>
+							<div class="sub-section">
 								<div class="project">
 									<figure>
 										<a class="link" href="https://github.com/scollet1/scollet1.github.io">
