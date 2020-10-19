@@ -21,7 +21,7 @@ const sprite_tracks = {
 	'attack': {
 		'rows': 1,
 		'cols': 14,
-		'width': 2188, // 2184
+		'width': 2184, // 2184
 		'height': 64,
 		'image': attack
 	}
